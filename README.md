@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm I am Mahmudur Rahman</h1>
+<h1 align="center">Hi 👋, I'm  Mahmudur Rahman</h1>
 <p align="center">A versatile professional, adept in SQA engineering and Web Development, committed to delivering high-quality solutions</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
