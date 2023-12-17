@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmudshumit?tab=repositories](https://github.com/mahmudshumit?tab=repositories)
 
-- 📝 Connect with me [https://www.linkedin.com/in/md-mahmudur-rahman-shumit/](https://www.linkedin.com/in/md-mahmudur-rahman-shumit/)
+- 📝 Connect with me <a href="https://www.linkedin.com/in/md-mahmudur-rahman-shumit/">Linkedin</a>
 
 - 📫 How to reach me **rahmanshumit@gmail.com**
 
 - ⚡ Fun fact **I think I am Cute**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a</h3>
 <p align="left">
 </p>
 
